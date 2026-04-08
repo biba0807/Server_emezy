@@ -1,0 +1,5080 @@
+[{
+  "_id": {
+    "$oid": "64920815f22d881611e3b73d"
+  },
+  "displayName": "\"Bronze\" Assistance Medal",
+  "key": 100,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "assistance",
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b73e"
+  },
+  "displayName": "\"Silver\" Assistance Medal",
+  "key": 101,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "assistance",
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b73f"
+  },
+  "displayName": "\"Gold\" Assistance Medal",
+  "key": 102,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "assistance",
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b740"
+  },
+  "displayName": "\"Platinum\" Assistance Medal",
+  "key": 103,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "assistance",
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b741"
+  },
+  "displayName": "\"Brilliant\" Assistance Medal",
+  "key": 104,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "assistance",
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b742"
+  },
+  "displayName": "Medal \"Veteran 2018 Bronze\"",
+  "key": 105,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "veteran2018"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b743"
+  },
+  "displayName": "Medal \"Veteran 2018 Silver\"",
+  "key": 106,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "veteran2018"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b744"
+  },
+  "displayName": "Medal \"Veteran 2018 Gold\"",
+  "key": 107,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "veteran2018"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b745"
+  },
+  "displayName": "Medal \"Veteran 2018 Platinum\"",
+  "key": 108,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "veteran2018"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b746"
+  },
+  "displayName": "Medal \"Veteran 2019 Bronze\"",
+  "key": 109,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "veteran2019"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b747"
+  },
+  "displayName": "Medal \"Veteran 2019 Silver\"",
+  "key": 110,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "veteran2019"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b748"
+  },
+  "displayName": "Medal \"Veteran 2019 Gold\"",
+  "key": 111,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "veteran2019"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b749"
+  },
+  "displayName": "Medal \"Veteran 2019 Platinum\"",
+  "key": 112,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "veteran2019"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b74a"
+  },
+  "displayName": "Medal \"2 Years Silver\"",
+  "key": 113,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "event2years",
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b74b"
+  },
+  "displayName": "Medal \"2 Years Gold\"",
+  "key": 114,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "event2years",
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b74c"
+  },
+  "displayName": "\"Origin\" Case",
+  "key": 301,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "origin",
+    "p3": 0.53,
+    "p4": 0.3,
+    "p5": 0.15,
+    "p6": 0.02
+  },
+  "penalty": {},
+  "buyPrice": [
+    {
+      "currencyId": 102,
+      "value": 100
+    }
+  ],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b74d"
+  },
+  "displayName": "\"Furious\" Case",
+  "key": 302,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "furious",
+    "p3": 0.53,
+    "p4": 0.3,
+    "p5": 0.15,
+    "p6": 0.02
+  },
+  "penalty": {},
+  "buyPrice": [
+    {
+      "currencyId": 102,
+      "value": 100
+    }
+  ],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b74e"
+  },
+  "displayName": "\"Rival\" Case",
+  "key": 303,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "rival",
+    "p3": 0.53,
+    "p4": 0.3,
+    "p5": 0.15,
+    "p6": 0.02
+  },
+  "penalty": {},
+  "buyPrice": [
+    {
+      "currencyId": 102,
+      "value": 100
+    }
+  ],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b74f"
+  },
+  "displayName": "\"Fable\" Case",
+  "key": 304,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "fable",
+    "p3": 0.53,
+    "p4": 0.3,
+    "p5": 0.15,
+    "p6": 0.02
+  },
+  "penalty": {},
+  "buyPrice": [
+    {
+      "currencyId": 102,
+      "value": 100
+    }
+  ],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b750"
+  },
+  "displayName": "\"Origin\" Box",
+  "key": 401,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "origin",
+    "p1": 0.5678,
+    "p2": 0.3785,
+    "p3": 0.0379,
+    "p4": 0.0142,
+    "p5": 0.0014,
+    "p6": 0.0002
+  },
+  "penalty": {},
+  "buyPrice": [
+    {
+      "currencyId": 101,
+      "value": 100
+    }
+  ],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b751"
+  },
+  "displayName": "\"Furious\" Box",
+  "key": 402,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "furious",
+    "p1": 0.5678,
+    "p2": 0.3785,
+    "p3": 0.0379,
+    "p4": 0.0142,
+    "p5": 0.0014,
+    "p6": 0.0002
+  },
+  "penalty": {},
+  "buyPrice": [
+    {
+      "currencyId": 101,
+      "value": 100
+    }
+  ],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b752"
+  },
+  "displayName": "\"Rival\" Box",
+  "key": 403,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "rival",
+    "p1": 0.5678,
+    "p2": 0.3785,
+    "p3": 0.0379,
+    "p4": 0.0142,
+    "p5": 0.0014,
+    "p6": 0.0002
+  },
+  "penalty": {},
+  "buyPrice": [
+    {
+      "currencyId": 101,
+      "value": 100
+    }
+  ],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b753"
+  },
+  "displayName": "\"Fable\" Box",
+  "key": 404,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "fable",
+    "p1": 0.5678,
+    "p2": 0.3785,
+    "p3": 0.0379,
+    "p4": 0.0142,
+    "p5": 0.0014,
+    "p6": 0.0002
+  },
+  "penalty": {},
+  "buyPrice": [
+    {
+      "currencyId": 101,
+      "value": 100
+    }
+  ],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b754"
+  },
+  "displayName": "Gift Box",
+  "key": 501,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "contains": "401, 402, 403, 301, 302, 303, 51006, 72003",
+    "values": "15, 15, 15, 5, 5, 5, 1, 10"
+  },
+  "penalty": {},
+  "buyPrice": [
+    {
+      "currencyId": 101,
+      "value": 100
+    }
+  ],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b755"
+  },
+  "displayName": "\"Two Years\" Gold Pass",
+  "key": 601,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b756"
+  },
+  "displayName": "\"New Year 2020\" Gold Pass",
+  "key": 602,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b757"
+  },
+  "displayName": "Halloween Sticker Pack",
+  "key": 701,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "p3": 0.823,
+    "p4": 0.154,
+    "p5": 0.021,
+    "p6": 0.002
+  },
+  "penalty": {},
+  "buyPrice": [
+    {
+      "currencyId": 102,
+      "value": 60
+    }
+  ],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b758"
+  },
+  "displayName": "Sticker \"Gold Skull\"",
+  "key": 1101,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 6
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b759"
+  },
+  "displayName": "Sticker \"Punisher\"",
+  "key": 1102,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 6
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b75a"
+  },
+  "displayName": "Sticker \"Mad Bat\"",
+  "key": 1103,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 5
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b75b"
+  },
+  "displayName": "Sticker \"Infernal Skull\"",
+  "key": 1104,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 5
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b75c"
+  },
+  "displayName": "Sticker \"Ghoul\"",
+  "key": 1105,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 5
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b75d"
+  },
+  "displayName": "Sticker \"Batrider\"",
+  "key": 1106,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 5
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b75e"
+  },
+  "displayName": "Sticker \"Gangsta Pumpkin\"",
+  "key": 1107,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 4
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b75f"
+  },
+  "displayName": "Sticker \"Snot\"",
+  "key": 1108,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 4
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b760"
+  },
+  "displayName": "Sticker \"Devilish\"",
+  "key": 1109,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 4
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b761"
+  },
+  "displayName": "Sticker \"Hurry Ghost\"",
+  "key": 1110,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 4
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b762"
+  },
+  "displayName": "Sticker \"Feed\"",
+  "key": 1111,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 4
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b763"
+  },
+  "displayName": "Sticker \"Anticamper\"",
+  "key": 1112,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 4
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b764"
+  },
+  "displayName": "Sticker \"BOOM\"",
+  "key": 1113,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 3
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b765"
+  },
+  "displayName": "Sticker \"Bloody Clown\"",
+  "key": 1114,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 3
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b766"
+  },
+  "displayName": "Sticker \"Ghosty\"",
+  "key": 1115,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 3
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b767"
+  },
+  "displayName": "Sticker \"Mummy\"",
+  "key": 1116,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 3
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b768"
+  },
+  "displayName": "Sticker \"Rush\"",
+  "key": 1117,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 3
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b769"
+  },
+  "displayName": "Sticker \"Evil Pumpkin\"",
+  "key": 1118,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 3
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b76a"
+  },
+  "displayName": "Sticker \"Zombie\"",
+  "key": 1119,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 3
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b76b"
+  },
+  "displayName": "Sticker \"Dracula\"",
+  "key": 1120,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "halloween_2019",
+    "value": 3
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b76c"
+  },
+  "displayName": "Sticker \"Accordeon\"",
+  "key": 1121,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "newyear2020",
+    "value": 4,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b76d"
+  },
+  "displayName": "Sticker \"Cookie Killer\"",
+  "key": 1122,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "newyear2020",
+    "value": 5,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b76e"
+  },
+  "displayName": "Sticker \"Winter Duelist\"",
+  "key": 1123,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "newyear2020",
+    "value": 4,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b76f"
+  },
+  "displayName": "Sticker \"Mad Santa\"",
+  "key": 1124,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "newyear2020",
+    "value": 5,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b770"
+  },
+  "displayName": "Sticker \"Metal Rat\"",
+  "key": 1125,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "newyear2020",
+    "value": 6,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b771"
+  },
+  "displayName": "Sticker \"Penguin\"",
+  "key": 1126,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "newyear2020",
+    "value": 4,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b772"
+  },
+  "displayName": "Sticker \"Snow King\"",
+  "key": 1127,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "newyear2020",
+    "value": 3,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b773"
+  },
+  "displayName": "Sticker \"Snow Queen\"",
+  "key": 1128,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "newyear2020",
+    "value": 6,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b774"
+  },
+  "displayName": "Sticker \"Numb Santa\"",
+  "key": 1129,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "newyear2020",
+    "value": 3,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b775"
+  },
+  "displayName": "Sticker \"Christmas HE\"",
+  "key": 1130,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "newyear2020",
+    "value": 3,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b776"
+  },
+  "displayName": "Sticker \"Sweet Ammo\"",
+  "key": 1131,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "newyear2020",
+    "value": 5,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b777"
+  },
+  "displayName": "Sticker \"Toxic Snowball\"",
+  "key": 1132,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "collection": "newyear2020",
+    "value": 3,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b778"
+  },
+  "displayName": "G22 \"Pixel Camouflage\"",
+  "key": 11001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 1,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b779"
+  },
+  "displayName": "G22 \"Nest\"",
+  "key": 11002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b77a"
+  },
+  "displayName": "G22 \"Nest\"",
+  "key": 1011002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b77b"
+  },
+  "displayName": "G22 \"Pattern\"",
+  "key": 11005,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 1,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b77c"
+  },
+  "displayName": "G22 \"Inferno\"",
+  "key": 11006,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b77d"
+  },
+  "displayName": "G22 \"Frost Wyrm\"",
+  "key": 11008,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b77e"
+  },
+  "displayName": "G22 \"Frost Wyrm\"",
+  "key": 1011007,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b77f"
+  },
+  "displayName": "USP \"Genesis\"",
+  "key": 12001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "nameless",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b780"
+  },
+  "displayName": "USP \"2 Years\"",
+  "key": 12002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "event2years",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b781"
+  },
+  "displayName": "USP \"2 Years Red\"",
+  "key": 12003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "event2years",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b782"
+  },
+  "displayName": "P350 \"Neon\"",
+  "key": 13001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b783"
+  },
+  "displayName": "P350 \"Neon\"",
+  "key": 1013001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b784"
+  },
+  "displayName": "P350 \"Savannah\"",
+  "key": 13002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b785"
+  },
+  "displayName": "P350 \"Forest Spirit\"",
+  "key": 13003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b786"
+  },
+  "displayName": "P350 \"Forest Spirit\"",
+  "key": 1013003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b787"
+  },
+  "displayName": "P350 \"Rally\"",
+  "key": 13004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b788"
+  },
+  "displayName": "P350 \"Rally\"",
+  "key": 1013004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b789"
+  },
+  "displayName": "P350 \"Skull\"",
+  "key": 13005,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b78a"
+  },
+  "displayName": "Desert Eagle \"Morgan\"",
+  "key": 15001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "assistance",
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b78b"
+  },
+  "displayName": "Desert Eagle \"Blood\"",
+  "key": 15002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b78c"
+  },
+  "displayName": "Desert Eagle \"Predator\"",
+  "key": 15003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b78d"
+  },
+  "displayName": "Desert Eagle \"Predator\"",
+  "key": 1015003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b78e"
+  },
+  "displayName": "Desert Eagle \"Red Dragon\"",
+  "key": 15004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b78f"
+  },
+  "displayName": "Desert Eagle \"Red Dragon\"",
+  "key": 1015004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b790"
+  },
+  "displayName": "Desert Eagle \"Winner\"",
+  "key": 15005,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b791"
+  },
+  "displayName": "Desert Eagle \"Dragon Glass\"",
+  "key": 15006,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b792"
+  },
+  "displayName": "Desert Eagle \"Dragon Glass\"",
+  "key": 1015006,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b793"
+  },
+  "displayName": "Desert Eagle \"Thunder\"",
+  "key": 15007,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 1,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b794"
+  },
+  "displayName": "UMP45 \"Cyberpunk\"",
+  "key": 32001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b795"
+  },
+  "displayName": "UMP45 \"Cyberpunk\"",
+  "key": 1032001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b796"
+  },
+  "displayName": "UMP45 \"Pixel\"",
+  "key": 32002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 1,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b797"
+  },
+  "displayName": "UMP45 \"Shark\"",
+  "key": 32003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b798"
+  },
+  "displayName": "UMP45 \"Shark\"",
+  "key": 1032003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b799"
+  },
+  "displayName": "UMP45 \"Winged\"",
+  "key": 32004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b79a"
+  },
+  "displayName": "UMP45 \"Beast\"",
+  "key": 32005,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b79b"
+  },
+  "displayName": "UMP45 \"Winged\"",
+  "key": 1032004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b79c"
+  },
+  "displayName": "UMP45 \"Beast\"",
+  "key": 1032005,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b79d"
+  },
+  "displayName": "UMP45 \"Iron\"",
+  "key": 32006,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 1,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b79e"
+  },
+  "displayName": "MP7 \"Offroad\"",
+  "key": 34001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b79f"
+  },
+  "displayName": "MP7 \"Arcade\"",
+  "key": 34002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7a0"
+  },
+  "displayName": "MP7 \"Offroad\"",
+  "key": 1034001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7a1"
+  },
+  "displayName": "MP7 \"Arcade\"",
+  "key": 1034002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7a2"
+  },
+  "displayName": "MP7 \"2 Years\"",
+  "key": 34003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "event2years",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7a3"
+  },
+  "displayName": "MP7 \"2 Years Red\"",
+  "key": 34004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "event2years",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7a4"
+  },
+  "displayName": "P90 \"Radiation\"",
+  "key": 35001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7a5"
+  },
+  "displayName": "P90 \"Ghoul\"",
+  "key": 35002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7a6"
+  },
+  "displayName": "P90 \"Ghoul\"",
+  "key": 1035002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7a7"
+  },
+  "displayName": "P90 \"Fissure\"",
+  "key": 35003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 1,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7a8"
+  },
+  "displayName": "P90 \"Pilot\"",
+  "key": 35004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 1,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7a9"
+  },
+  "displayName": "G22 \"Relic\"",
+  "key": 41101,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "nameless",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7aa"
+  },
+  "displayName": "USP \"Fiend\"",
+  "key": 41201,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7ab"
+  },
+  "displayName": "USP \"Pisces\"",
+  "key": 41212,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7ac"
+  },
+  "displayName": "USP \"Pisces\"",
+  "key": 1041212,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7ad"
+  },
+  "displayName": "Desert Eagle \"Ace\"",
+  "key": 41502,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7ae"
+  },
+  "displayName": "Desert Eagle \"Ace\"",
+  "key": 1041502,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7af"
+  },
+  "displayName": "TEC-9 \"Aurora\"",
+  "key": 41601,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7b0"
+  },
+  "displayName": "TEC-9 \"Fable\"",
+  "key": 41605,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7b1"
+  },
+  "displayName": "TEC-9 \"Fable\"",
+  "key": 1041605,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7b2"
+  },
+  "displayName": "F/S \"Venom\"",
+  "key": 41701,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7b3"
+  },
+  "displayName": "F/S \"Tactical\"",
+  "key": 41703,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7b4"
+  },
+  "displayName": "F/S \"Venom\"",
+  "key": 1041701,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7b5"
+  },
+  "displayName": "F/S \"Tactical\"",
+  "key": 1041703,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7b6"
+  },
+  "displayName": "UMP45 \"Pixel V2\"",
+  "key": 43201,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7b7"
+  },
+  "displayName": "UMP45 \"Cerberus\"",
+  "key": 43202,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7b8"
+  },
+  "displayName": "UMP45 \"Cerberus\"",
+  "key": 1043202,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7b9"
+  },
+  "displayName": "MP7 \"Thorn\"",
+  "key": 43401,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 1,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7ba"
+  },
+  "displayName": "MP7 \"Lich\"",
+  "key": 43402,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7bb"
+  },
+  "displayName": "MP7 \"Lich\"",
+  "key": 1043402,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7bc"
+  },
+  "displayName": "P90 \"Jungle\"",
+  "key": 43502,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 1,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7bd"
+  },
+  "displayName": "AKR \"Treasure Hunter\"",
+  "key": 44002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7be"
+  },
+  "displayName": "AKR \"Treasure Hunter\"",
+  "key": 1044002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7bf"
+  },
+  "displayName": "AKR \"Tiger\"",
+  "key": 44003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 1,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7c0"
+  },
+  "displayName": "AKR \"Sport\"",
+  "key": 44004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7c1"
+  },
+  "displayName": "AKR \"Necromancer\"",
+  "key": 44005,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7c2"
+  },
+  "displayName": "AKR \"Carbon\"",
+  "key": 44006,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7c3"
+  },
+  "displayName": "AKR \"Sport\"",
+  "key": 1044004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7c4"
+  },
+  "displayName": "AKR \"Necromancer\"",
+  "key": 1044005,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7c5"
+  },
+  "displayName": "AKR \"Carbon\"",
+  "key": 1044006,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7c6"
+  },
+  "displayName": "AKR \"2 Years Red\"",
+  "key": 44007,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "event2years",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7c7"
+  },
+  "displayName": "AKR \"Worm\"",
+  "key": 44401,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7c8"
+  },
+  "displayName": "M4 \"Lizard\"",
+  "key": 44601,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7c9"
+  },
+  "displayName": "M4 \"Samurai\"",
+  "key": 44603,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7ca"
+  },
+  "displayName": "M4 \"Lizard\"",
+  "key": 1044601,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7cb"
+  },
+  "displayName": "M4 \"Samurai\"",
+  "key": 1044603,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7cc"
+  },
+  "displayName": "FN FAL \"Leather\"",
+  "key": 44901,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "nameless",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7cd"
+  },
+  "displayName": "FN FAL \"Acid Carbon\"",
+  "key": 44902,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 1,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7ce"
+  },
+  "displayName": "FN FAL \"Tactical\"",
+  "key": 44903,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7cf"
+  },
+  "displayName": "FN FAL \"Tactical\"",
+  "key": 1044903,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7d0"
+  },
+  "displayName": "AKR12 \"Railgun\"",
+  "key": 45001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7d1"
+  },
+  "displayName": "AKR12 \"Railgun\"",
+  "key": 1045001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7d2"
+  },
+  "displayName": "AKR12 \"Pixel Camouflage\"",
+  "key": 45002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7d3"
+  },
+  "displayName": "AKR12 \"Pixel Camouflage\"",
+  "key": 1045002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7d4"
+  },
+  "displayName": "AKR12 \"Mechanic\"",
+  "key": 45003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7d5"
+  },
+  "displayName": "AKR12 \"Aurora\"",
+  "key": 45004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7d6"
+  },
+  "displayName": "M110 \"Cyber\"",
+  "key": 45301,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7d7"
+  },
+  "displayName": "M110 \"Cyber\"",
+  "key": 1045301,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7d8"
+  },
+  "displayName": "M4 \"Predator\"",
+  "key": 46001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "assistance"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7d9"
+  },
+  "displayName": "M4 \"Necromancer\"",
+  "key": 46002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7da"
+  },
+  "displayName": "M4 \"Necromancer\"",
+  "key": 1046002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7db"
+  },
+  "displayName": "M4 \"Tiger\"",
+  "key": 46003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 1,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7dc"
+  },
+  "displayName": "M4 \"PRO\"",
+  "key": 46006,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7dd"
+  },
+  "displayName": "M4 \"Grand Prix\"",
+  "key": 46007,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7de"
+  },
+  "displayName": "M4 \"PRO\"",
+  "key": 1046006,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7df"
+  },
+  "displayName": "M4 \"Grand Prix\"",
+  "key": 1046007,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7e0"
+  },
+  "displayName": "M16 \"Camouflage\"",
+  "key": 47001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7e1"
+  },
+  "displayName": "M16 \"Winged\"",
+  "key": 47002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7e2"
+  },
+  "displayName": "M16 \"Winged\"",
+  "key": 1047002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7e3"
+  },
+  "displayName": "M16 \"Facet\"",
+  "key": 47003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7e4"
+  },
+  "displayName": "Butterfly \"Legacy\"",
+  "key": 47502,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "fable",
+    "craftable": false,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7e5"
+  },
+  "displayName": "Butterfly \"Dragon Glass\"",
+  "key": 47503,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "fable",
+    "craftable": false,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7e6"
+  },
+  "displayName": "Butterfly \"Black Widow\"",
+  "key": 47504,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "fable",
+    "craftable": false,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7e7"
+  },
+  "displayName": "Butterfly \"Starfall\"",
+  "key": 47505,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "fable",
+    "craftable": false,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7e8"
+  },
+  "displayName": "Famas \"Beagle\"",
+  "key": 48001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7e9"
+  },
+  "displayName": "Famas \"Fury\"",
+  "key": 48002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7ea"
+  },
+  "displayName": "Famas \"Hull\"",
+  "key": 48003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7eb"
+  },
+  "displayName": "Famas \"Beagle\"",
+  "key": 1048001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7ec"
+  },
+  "displayName": "Famas \"Fury\"",
+  "key": 1048002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7ed"
+  },
+  "displayName": "Famas \"Hull\"",
+  "key": 1048003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7ee"
+  },
+  "displayName": "AWM \"Sport\"",
+  "key": 51001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "assistance",
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7ef"
+  },
+  "displayName": "AWM \"Phoenix\"",
+  "key": 51002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7f0"
+  },
+  "displayName": "AWM \"Gear\"",
+  "key": 51003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7f1"
+  },
+  "displayName": "AWM \"Scratch\"",
+  "key": 51004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7f2"
+  },
+  "displayName": "AWM \"Phoenix\"",
+  "key": 1051002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "origin",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7f3"
+  },
+  "displayName": "AWM \"Gear\"",
+  "key": 1051003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7f4"
+  },
+  "displayName": "AWM \"Scratch\"",
+  "key": 1051004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7f5"
+  },
+  "displayName": "AWM \"Sport V2\"",
+  "key": 51006,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "nameless",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7f6"
+  },
+  "displayName": "AWM \"Genesis\"",
+  "key": 51007,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7f7"
+  },
+  "displayName": "AWM \"Genesis\"",
+  "key": 1051007,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7f8"
+  },
+  "displayName": "AWM \"2 Years Red\"",
+  "key": 51008,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "event2years",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7f9"
+  },
+  "displayName": "TEC-9 \"Splinter Storm\"",
+  "key": 51601,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "competitive",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7fa"
+  },
+  "displayName": "F/S \"Camo Storm\"",
+  "key": 51701,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "competitive",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7fb"
+  },
+  "displayName": "M40 \"Quake\"",
+  "key": 52001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7fc"
+  },
+  "displayName": "M40 \"Quake\"",
+  "key": 1052001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7fd"
+  },
+  "displayName": "M40 \"PRO\"",
+  "key": 52002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "furious",
+    "craftable": true,
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7fe"
+  },
+  "displayName": "M40 \"Beagle\"",
+  "key": 52003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b7ff"
+  },
+  "displayName": "M40 \"Beagle\"",
+  "key": 1052003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b800"
+  },
+  "displayName": "AKR \"Fabric Storm\"",
+  "key": 54401,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "competitive",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b801"
+  },
+  "displayName": "M4 \"Pixel Storm\"",
+  "key": 54601,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "competitive",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b802"
+  },
+  "displayName": "Butterfly \"Fire Storm\"",
+  "key": 57501,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "competitive",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b803"
+  },
+  "displayName": "G22 \"Frozen\"",
+  "key": 61101,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 6,
+    "collection": "newyear2020",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b804"
+  },
+  "displayName": "USP \"Stone Cold\"",
+  "key": 61201,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 4,
+    "collection": "newyear2020",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b805"
+  },
+  "displayName": "TEC-9 \"Necromancer\"",
+  "key": 61601,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 5,
+    "collection": "newyear2020",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b806"
+  },
+  "displayName": "G22 \"Frozen\"",
+  "key": 1061101,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 6,
+    "collection": "newyear2020",
+    "stattrack": true,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b807"
+  },
+  "displayName": "USP \"Stone Cold\"",
+  "key": 1061201,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 4,
+    "collection": "newyear2020",
+    "stattrack": true,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b808"
+  },
+  "displayName": "TEC-9 \"Necromancer\"",
+  "key": 1061601,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 5,
+    "collection": "newyear2020",
+    "stattrack": true,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b809"
+  },
+  "displayName": "SM1014 \"Facet\"",
+  "key": 62001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": true,
+    "value": 2,
+    "collection": "origin",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b80a"
+  },
+  "displayName": "SM1014 \"Pathfinder\"",
+  "key": 62002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": true,
+    "value": 3,
+    "collection": "origin",
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b80b"
+  },
+  "displayName": "SM1014 \"Necromancer\"",
+  "key": 62003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": true,
+    "value": 5,
+    "collection": "furious",
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b80c"
+  },
+  "displayName": "SM1014 \"Pathfinder\"",
+  "key": 1062002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": true,
+    "value": 3,
+    "collection": "origin",
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b80d"
+  },
+  "displayName": "SM1014 \"Necromancer\"",
+  "key": 1062003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": true,
+    "value": 5,
+    "collection": "furious",
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b80e"
+  },
+  "displayName": "SM1014 \"Northern Camouflage\"",
+  "key": 62004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": true,
+    "value": 1,
+    "collection": "furious",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b80f"
+  },
+  "displayName": "SM1014 \"Quake\"",
+  "key": 62005,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": true,
+    "value": 2,
+    "collection": "rival",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b810"
+  },
+  "displayName": "SM1014 \"Branches\"",
+  "key": 62006,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": true,
+    "value": 1,
+    "collection": "rival",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b811"
+  },
+  "displayName": "MP7 \"Winter Sport\"",
+  "key": 63401,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 3,
+    "collection": "newyear2020",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b812"
+  },
+  "displayName": "AWM \"Winter Sport\"",
+  "key": 65101,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 5,
+    "collection": "newyear2020",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b813"
+  },
+  "displayName": "M40 \"Arctic\"",
+  "key": 65201,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 3,
+    "collection": "newyear2020",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b814"
+  },
+  "displayName": "M40 \"Winter Track\"",
+  "key": 65202,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 4,
+    "collection": "newyear2020",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b815"
+  },
+  "displayName": "SM1014 \"Arctic\"",
+  "key": 66201,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 3,
+    "collection": "newyear2020",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b816"
+  },
+  "displayName": "MP7 \"Winter Sport\"",
+  "key": 1063401,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 3,
+    "collection": "newyear2020",
+    "stattrack": true,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b817"
+  },
+  "displayName": "AWM \"Winter Sport\"",
+  "key": 1065101,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 5,
+    "collection": "newyear2020",
+    "stattrack": true,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b818"
+  },
+  "displayName": "M40 \"Arctic\"",
+  "key": 1065201,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 3,
+    "collection": "newyear2020",
+    "stattrack": true,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b819"
+  },
+  "displayName": "M40 \"Winter Track\"",
+  "key": 1065202,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 4,
+    "collection": "newyear2020",
+    "stattrack": true,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b81a"
+  },
+  "displayName": "SM1014 \"Arctic\"",
+  "key": 1066201,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 3,
+    "collection": "newyear2020",
+    "stattrack": true,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b81b"
+  },
+  "displayName": "Flip \"Dragon Glass\"",
+  "key": 67701,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 6,
+    "collection": "newyear2020",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b81c"
+  },
+  "displayName": "Flip \"Arctic\"",
+  "key": 67702,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 6,
+    "collection": "newyear2020",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b81d"
+  },
+  "displayName": "Flip \"Stone Cold\"",
+  "key": 67703,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 6,
+    "collection": "newyear2020",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b81e"
+  },
+  "displayName": "Flip \"Vortex\"",
+  "key": 67704,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 6,
+    "collection": "newyear2020",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b81f"
+  },
+  "displayName": "Flip \"Frozen\"",
+  "key": 67705,
+  "canBeTraded": false,
+  "enabled": false,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "craftable": false,
+    "value": 6,
+    "collection": "newyear2020",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b820"
+  },
+  "displayName": "M9 Bayonet \"Blue Blood\"",
+  "key": 71001,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "assistance",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b821"
+  },
+  "displayName": "M9 Bayonet \"Ancient\"",
+  "key": 71002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "origin",
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b822"
+  },
+  "displayName": "M9 Bayonet \"Scratch\"",
+  "key": 71003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "origin",
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b823"
+  },
+  "displayName": "M9 Bayonet \"Universe\"",
+  "key": 71004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "origin",
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b824"
+  },
+  "displayName": "M9 Bayonet \"Dragon Glass\"",
+  "key": 71005,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "origin",
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b825"
+  },
+  "displayName": "Karambit \"Claw\"",
+  "key": 72002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "furious",
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b826"
+  },
+  "displayName": "Karambit \"Gold\"",
+  "key": 72003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "nameless",
+    "stattrack": false,
+    "match_drop": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b827"
+  },
+  "displayName": "Karambit \"Dragon Glass\"",
+  "key": 72004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "furious",
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b828"
+  },
+  "displayName": "Karambit \"Scratch\"",
+  "key": 72006,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "furious",
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b829"
+  },
+  "displayName": "Karambit \"Universe\"",
+  "key": 72007,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "furious",
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b82a"
+  },
+  "displayName": "jKommando \"Ancient\"",
+  "key": 73002,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "rival",
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b82b"
+  },
+  "displayName": "jKommando \"Reaper\"",
+  "key": 73003,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "rival",
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b82c"
+  },
+  "displayName": "jKommando \"Floral\"",
+  "key": 73004,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "rival",
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "64920815f22d881611e3b82d"
+  },
+  "displayName": "jKommando \"Luxury\"",
+  "key": 73006,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "rival",
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "6495630b491359b5f8fe3a20"
+  },
+  "displayName": "G22 \"Starfall\"",
+  "key": 41102,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": false
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "6495630b491359b5f8fe3a21"
+  },
+  "displayName": "G22 \"Starfall\"",
+  "key": 1041102,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "fable",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "68dc1ff99b767570a534acd6"
+  },
+  "displayName": "Medal \"Competitive Brilliant\"",
+  "key": 119,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "competitive"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "68e2a93ee13c5c8d53d7cec4"
+  },
+  "displayName": "G22 \"Frost Wyrm\"",
+  "key": 1011008,
+  "canBeTraded": true,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "rival",
+    "craftable": true,
+    "stattrack": true
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "68f113548b360bda23e60a94"
+  },
+  "displayName": "Medal \"Competitive Platinum\"",
+  "key": 118,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "competitive"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "68f113608b360bda23e60a95"
+  },
+  "displayName": "Medal \"Competitive Silver\"",
+  "key": 116,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "competitive"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "68f1136a8b360bda23e60a96"
+  },
+  "displayName": "Medal \"Competitive Gold\"",
+  "key": 117,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "competitive"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "68f113988b360bda23e60a97"
+  },
+  "displayName": "Medal \"Competitive Bronze\"",
+  "key": 115,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "competitive"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "68ff3778b2206d23de7fb5c5"
+  },
+  "displayName": "Medal \"New Year Madness 2020 Bronze\"",
+  "key": 120,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 2,
+    "collection": "newyear2020"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "68ff378fb2206d23de7fb5c6"
+  },
+  "displayName": "Medal \"New Year Madness 2020 Silver\"",
+  "key": 121,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 3,
+    "collection": "newyear2020"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "68ff379db2206d23de7fb5c7"
+  },
+  "displayName": "Medal \"New Year Madness 2020 Gold\"",
+  "key": 122,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 4,
+    "collection": "newyear2020"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "68ff37afb2206d23de7fb5c8"
+  },
+  "displayName": "Medal \"New Year Madness 2020 Platinum\"",
+  "key": 123,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 5,
+    "collection": "newyear2020"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+},
+{
+  "_id": {
+    "$oid": "68ff37b8b2206d23de7fb5c9"
+  },
+  "displayName": "Medal \"New Year Madness 2020 Brilliant\"",
+  "key": 124,
+  "canBeTraded": false,
+  "enabled": true,
+  "gid": 1,
+  "properties": {
+    "itemType": 0,
+    "value": 6,
+    "collection": "newyear2020"
+  },
+  "penalty": {},
+  "buyPrice": [],
+  "minGameVersion": ""
+}]
